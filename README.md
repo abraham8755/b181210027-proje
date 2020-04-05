@@ -6,5 +6,4 @@
 B181210027
 
 GitHub linki:
-
-# Projenin Amacı:
+https://github.com/abraham8755/b181210027-proje.git
