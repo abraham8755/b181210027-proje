@@ -1,1 +1,28 @@
-sas
+WEB-TEKNOLOJİLERİ PROJESİ
+ İBRAHİM ŞAHİN    B181210027
+https://github.com/abraham8755/b181210027-proje.git
+Projenin Amacı:
+  - Kendimi ve yaşadığım şehri tanıtan kişisel bir web sitesi oluşturmak. 
+Proje İçeriği: 
+ Ana Sayfa
+ Hakkında Sayfası
+   - Kişisel ilgi alanlarım vb. Bilgiler 
+ Özgeçmiş Sayfası   
+  Şehrim Sayfası       
+   -  Şehre ait kısa bir metin,     
+   -  Şehre ait fotoğrafın olduğu bir slider     
+ Mirasımız Sayfası     
+   -  Şehirdeki kültürel bir mekanın tanıtımı    
+  Login Sayfası    
+   -  Kullanıcıdan kullanıcı adı ve şifre istenmeli     
+   -  Eğer kullanıcı adı ve şifre doğrulanırsa 'Hoşgeldiniz' mesajı verilmeli
+   -  Eğer kullanıcı ad veya şifre yanlış ise login sayfasına geri dönülmeli,     
+   -  Kullanıcı adının mail olup olmadığı, Kullanıcı adı ve şifrenin boş olup olmadığı kontrolü,
+ İletişim Sayfası    
+   -  Form elemanları kullanılmalı    
+   -  Kontrol işlemleri javascript ile yapılmalı     
+   -  Gönderilen form bilgileri başka bir sayfada görüntülenmeli      
+Proje Süreci:   
+   -  Sayfaların html dosyalarının yazılması ve gerekli dökümanın ve içeriğin toplanması.   
+   -  Sayfaların tasarım kodlarının yazılması,    
+   -  Gerekli javascript ve php dosyalarının tamamlanması,   
